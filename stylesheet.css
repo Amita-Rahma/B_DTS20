@@ -120,7 +120,7 @@ header {
   display: block;
   float: left;
   transition: all 0.5s;
-   font-family: "Tahoma";
+   font-family: "Century Gothic";
 }
 
 .header-right a:hover {
