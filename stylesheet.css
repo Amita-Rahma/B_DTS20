@@ -101,6 +101,7 @@ header {
   width: 124px;
   margin-top: 10px;
   margin-bottom: 10px;
+  opacity: 0.5;
 }
 
 .header-left {
