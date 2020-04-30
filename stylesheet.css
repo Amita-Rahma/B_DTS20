@@ -60,12 +60,14 @@ a {
 }
 
 .signup {
-  background-color: #fd79a8;
+  background-color: #ffffff;
+  color: black;
   margin-left: 20px;
 }
 
 .facebook {
-  background-color: #3b5998;
+  background-color: #ffffff;
+  color: black;
   margin-right: 10px;
 }
 
