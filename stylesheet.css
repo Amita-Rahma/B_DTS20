@@ -52,6 +52,7 @@ a {
 .message-wrapper {
   text-align: center;
   background-color: black;
+  color: black;
 }
 
 .message-wrapper p {
