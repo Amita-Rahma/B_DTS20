@@ -50,16 +50,18 @@ a {
 }
 
 .btn-wrapper {
-  text-align: left;
+  text-align: center;
   margin: 20px 0;
+  color: white;
+  background-color: black;
 }
 
 .btn-wrapper p {
   margin: 10px 0px 10px 100px;
-  text-align: left;
+  text-align: center;
 }
 .btn-wrapper a {
-  color: black;
+  color: white;
 }
 
 .signup {
