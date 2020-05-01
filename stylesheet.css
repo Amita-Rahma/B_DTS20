@@ -74,7 +74,7 @@ a {
 }
 
 
-.message {
+.message-wrapper {
   padding: 12px 24px;
   color: white;
   display: inline-block;
@@ -83,7 +83,7 @@ a {
   text-align: center;
 }
 
-.message:hover {
+.message-wrapper:hover {
   opacity: 1;
 }
 
