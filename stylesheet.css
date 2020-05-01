@@ -74,7 +74,7 @@ a {
 }
 
 
-.btn {
+.message {
   padding: 12px 24px;
   color: white;
   display: inline-block;
@@ -83,7 +83,7 @@ a {
   text-align: center;
 }
 
-.btn:hover {
+.message:hover {
   opacity: 1;
 }
 
