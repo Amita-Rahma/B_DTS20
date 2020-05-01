@@ -52,7 +52,7 @@ a {
 .message-wrapper {
   text-align: center;
   background-color: black;
-  color: black;
+
 }
 
 .message-wrapper p {
@@ -66,12 +66,12 @@ a {
 }
 
 .signup {
-  background-color: white;
+  background-color: blue;
   color: black;
 }
 
 .facebook {
-  background-color: white;
+  background-color: blue;
   color: black;
 }
 
