@@ -49,17 +49,17 @@ a {
   text-align: center;
 }
 
-.message {
+.message-wrapper {
   text-align: center;
   color: white;
   background-color: black;
 }
 
-.message p {
+.message-wrapper p {
   margin: 10px 0px 10px 0px;
   text-align: center;
 }
-.message a {
+.message-wrapper a {
   color: white;
 }
 
