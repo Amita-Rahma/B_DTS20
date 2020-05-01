@@ -183,25 +183,6 @@ header {
   font-weight: normal;
 }
 
-.message-wrapper {
-  border-bottom: 1px solid #eee;
-  padding-bottom: 80px;
-  text-align: center;
-  background-image: url(tumblr_82b5fec6b6e21ff17181c54d91904565_3dd8c145_1280.gif);
-}
-
-.message {
-  padding: 15px 40px;
-  background-color: #ffcccc;
-  cursor: pointer;
-  box-shadow: 0 7px ##ffcccc;
-}
-
-.message:active {
-  position: relative;
-  top: 7px;
-  box-shadow: none;
-}
 .contact-form {
   padding: 50px 80px 50px 80px;
   color: white;
