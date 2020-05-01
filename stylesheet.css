@@ -201,14 +201,14 @@ header {
   box-shadow: none;
 }
 .contact-form {
-  padding: 0px 80px 100px 80px;
+  padding: 50px 80px 50px 80px;
   color: white;
   background-color: black;
 }
 input, textarea {
   width: 400px;
   margin-top: 10px;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   padding: 20px;
   font-size: 18px;
 }
