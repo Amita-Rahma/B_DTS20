@@ -49,18 +49,18 @@ a {
   text-align: center;
 }
 
-.btn-wrapper {
+.message {
   text-align: center;
   margin: 20px 0;
   color: white;
   background-color: black;
 }
 
-.btn-wrapper p {
+.message p {
   margin: 10px 0px 10px 100px;
   text-align: center;
 }
-.btn-wrapper a {
+.message a {
   color: white;
 }
 
